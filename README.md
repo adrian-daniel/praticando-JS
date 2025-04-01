@@ -33,8 +33,6 @@
 
 * JAVASCRIPT
 
-## Link para acessar o projeto:
-
 
 
 ## Feito por:
